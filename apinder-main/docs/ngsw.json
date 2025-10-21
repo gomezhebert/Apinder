@@ -1,0 +1,95 @@
+{
+  "configVersion": 1,
+  "timestamp": 1666764241046,
+  "index": "https://caromonroy.github.io/apinder/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://caromonroy.github.io/apinder/favicon.ico",
+        "https://caromonroy.github.io/apinder/index.html",
+        "https://caromonroy.github.io/apinder/main.4801e34b72e1ac4d.js",
+        "https://caromonroy.github.io/apinder/manifest.webmanifest",
+        "https://caromonroy.github.io/apinder/polyfills.7c1e820c7a3eda36.js",
+        "https://caromonroy.github.io/apinder/runtime.c9afec4858b76589.js",
+        "https://caromonroy.github.io/apinder/styles.f95cafe7bb7b0cfd.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://caromonroy.github.io/apinder/assets/dataset.csv",
+        "https://caromonroy.github.io/apinder/assets/icons/apple-touch-icon.png",
+        "https://caromonroy.github.io/apinder/assets/icons/favicon-16x16.png",
+        "https://caromonroy.github.io/apinder/assets/icons/favicon-32x32.png",
+        "https://caromonroy.github.io/apinder/assets/icons/icon-128x128.png",
+        "https://caromonroy.github.io/apinder/assets/icons/icon-144x144.png",
+        "https://caromonroy.github.io/apinder/assets/icons/icon-152x152.png",
+        "https://caromonroy.github.io/apinder/assets/icons/icon-192x192.png",
+        "https://caromonroy.github.io/apinder/assets/icons/icon-384x384.png",
+        "https://caromonroy.github.io/apinder/assets/icons/icon-512x512.png",
+        "https://caromonroy.github.io/apinder/assets/icons/icon-72x72.png",
+        "https://caromonroy.github.io/apinder/assets/icons/icon-96x96.png",
+        "https://caromonroy.github.io/apinder/assets/images/heart.png",
+        "https://caromonroy.github.io/apinder/assets/images/home-woman.png",
+        "https://caromonroy.github.io/apinder/assets/images/link.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://caromonroy.github.io/apinder/assets/dataset.csv": "d686f84b865515ff4fe249f037ec94c4c972176b",
+    "https://caromonroy.github.io/apinder/assets/icons/apple-touch-icon.png": "221f7c68d7e803783fe9716a3683268448c622e3",
+    "https://caromonroy.github.io/apinder/assets/icons/favicon-16x16.png": "969002f7355c3f40337aaf8d2549471d3f80191a",
+    "https://caromonroy.github.io/apinder/assets/icons/favicon-32x32.png": "67554c09de73d1a8bef80ffa819362e5702688e4",
+    "https://caromonroy.github.io/apinder/assets/icons/icon-128x128.png": "2ea9091daea095ef113aaf363e6cae914c36ded0",
+    "https://caromonroy.github.io/apinder/assets/icons/icon-144x144.png": "6d0fe166d4875813b11137735983848d34122796",
+    "https://caromonroy.github.io/apinder/assets/icons/icon-152x152.png": "14bb48c124f9cc74e3321965d3308630d45d82ff",
+    "https://caromonroy.github.io/apinder/assets/icons/icon-192x192.png": "5d9e714cda6d2b234a5820e78b6a21a10606341d",
+    "https://caromonroy.github.io/apinder/assets/icons/icon-384x384.png": "f155dd60fd8df0af5be04014fcf37da145fd91ac",
+    "https://caromonroy.github.io/apinder/assets/icons/icon-512x512.png": "712aaf8a7b93efa8f50111f25394b0ffd9295f40",
+    "https://caromonroy.github.io/apinder/assets/icons/icon-72x72.png": "fdc5150ddaae01e7aa566dd25e5616334adbe1fd",
+    "https://caromonroy.github.io/apinder/assets/icons/icon-96x96.png": "9143bd846ac74d491428e32dcc544873841e59d2",
+    "https://caromonroy.github.io/apinder/assets/images/heart.png": "a6f1cca99317299f92b079a2913859147bd544c5",
+    "https://caromonroy.github.io/apinder/assets/images/home-woman.png": "a9c0186b74114df6ffcda41c559dec98b3111fe1",
+    "https://caromonroy.github.io/apinder/assets/images/link.png": "e238d509a867973b52fc3943dbbe078a73b78008",
+    "https://caromonroy.github.io/apinder/favicon.ico": "ed8e5a1fd92a55803bd00a7af7c79e0a014f1716",
+    "https://caromonroy.github.io/apinder/index.html": "532fa410c08dc62e9ebd53c89e501ae4f3c60d6f",
+    "https://caromonroy.github.io/apinder/main.4801e34b72e1ac4d.js": "0fbce48bf5f4c7173dea715149a1b69e512f716f",
+    "https://caromonroy.github.io/apinder/manifest.webmanifest": "cdc65872c2cd056551e61d8999979193b143e9e9",
+    "https://caromonroy.github.io/apinder/polyfills.7c1e820c7a3eda36.js": "dbe49f5f5e0df684b83c9e287804545ba612c35f",
+    "https://caromonroy.github.io/apinder/runtime.c9afec4858b76589.js": "460e2047da1b97a6706d085b59e6738c8bfc7555",
+    "https://caromonroy.github.io/apinder/styles.f95cafe7bb7b0cfd.css": "fdc516c87cba41bee9a59b4ee0f7a5731d87af25"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
