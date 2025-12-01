@@ -14,9 +14,9 @@
 
 ## 🚀 Demo en Vivo
 
-**[Ver Proyecto en GitHub Pages](https://TU-USUARIO.github.io/apinder-vue/)**
+**[🌐 Ver Proyecto en GitHub Pages](https://gomezh1.github.io/apinder-vue/)**
 
-> 💡 Reemplaza `TU-USUARIO` con tu usuario de GitHub
+**URL:** `https://gomezh1.github.io/apinder-vue/`
 
 ---
 
@@ -69,7 +69,7 @@ Funciona perfectamente en cualquier dispositivo
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/TU-USUARIO/apinder-vue.git
+git clone https://github.com/gomezh1/apinder-vue.git
 
 # Entrar al directorio
 cd apinder-vue
@@ -106,7 +106,7 @@ npm run deploy
 sh deploy.sh
 ```
 
-El sitio estará disponible en: `https://TU-USUARIO.github.io/apinder-vue/`
+El sitio estará disponible en: `https://gomezh1.github.io/apinder-vue/`
 
 ---
 
